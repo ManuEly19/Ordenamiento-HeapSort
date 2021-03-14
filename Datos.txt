@@ -1,0 +1,10 @@
+
+° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° °
+
+Datos desordenados: [65][7][5][2]
+
+Datos ordenados: [2][5][7][65]
+
+Algoritmo de ordenamiento HeapSort
+
+° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° ° °
